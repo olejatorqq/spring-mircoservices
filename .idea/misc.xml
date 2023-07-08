@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/api-gateway/src/main/java/Test/pom.xml" />
         <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client-2/pom.xml" />
       </list>
     </option>
   </component>
